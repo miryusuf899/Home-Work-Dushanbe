@@ -36,3 +36,11 @@
 {
     width: 23px;
 }
+.bgColor
+{
+    background-color: rgba(179, 210, 255, 1);
+}
+.section1
+{
+    max-width: 1200px;
+}
